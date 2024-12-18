@@ -39,7 +39,7 @@ button {
 
 button:hover {
     background-color: #880e4f;
-    transform: translateX(-10px); 
+    transform: translateY(-10px); 
 }
 
 .anim {
